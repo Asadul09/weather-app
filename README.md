@@ -1,6 +1,6 @@
 # Weather App
 
-## Simple Weather app using third party API  
+## Simple Weather app 
 
 Live Demo: [weather-app](https://rdinesh1667.github.io/weather-app/)  
 
